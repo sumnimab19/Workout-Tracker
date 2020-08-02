@@ -42,7 +42,7 @@ const workoutSchema = new Schema ({
 
         distance: {
             type: Number,
-            // required: "Enter the distance." 
+            required: "Enter the distance." 
         }
 
     }]
