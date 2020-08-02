@@ -40,4 +40,6 @@ npm i morgan
 
 
 ## Link to the published app
+https://workout-trackerapps.herokuapp.com/
+
 
